@@ -52,7 +52,7 @@ Google开发的一个强大易用的图片加载库。
 下拉刷新、上拉加载的库，兼容任意View，酷炫又好用。已在[BaseHttpRecyclerActivity](https://github.com/TommyLemon/Android-ZBLibrary/blob/master/ZBLibrary(AndroidStudio)/ZBLibrary/src/main/java/zuo/biao/library/base/BaseHttpRecyclerActivity.java)等类内置支持。
 
 [ZXingLib](https://github.com/xuyisheng/ZXingLib)
-这是该作者对官方ZXing二维码库的精简版。我做了修改，作为ZBLibrary的QRCodeLibrary。
+这是该作者对官方ZXing二维码库的精简版。我做了修改，作为ZBLibrary的QRCodeLibrary。仅用作创建和扫描二维码
 
 
 ## 初始化
